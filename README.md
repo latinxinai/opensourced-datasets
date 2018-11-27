@@ -7,9 +7,10 @@ Repository of open source datasets for use in research pertaining to AI and the 
 
 ## Natural Language
 - [Spanish Emojis](https://github.com/latinxinai/opensourced-datasets/blob/master/datasets/spanish_emojis.csv): collection of Spanish phrases-emoji pairs.  
+- [TASS Dataset](http://www.sepln.org/workshops/tass/tass_data/download.php) The TASS Dataset is a corpus of texts (mainly tweets) in Spanish tagged for Sentiment Analysis related tasks. It is divided into several subsets created for the various tasks proposed in the different editions through the years. 
 - [XNLI: The Cross-Lingual NLI Corpus](https://github.com/facebookresearch/XNLI): The Cross-lingual Natural Language Inference (XNLI) corpus is a crowd-sourced collection of 5,000 test and 2,500 dev pairs for the MultiNLI corpus. The pairs are annotated with textual entailment and translated into 14 languages: *French, Spanish, German, Greek, Bulgarian, Russian, Turkish, Arabic, Vietnamese, Thai, Chinese, Hindi, Swahili and Urdu*. This results in 112.5k annotated pairs. Each premise can be associated with the corresponding hypothesis in the 15 languages, summing up to more than 1.5M combinations. [*paper*](https://research.fb.com/publications/xnli-evaluating-cross-lingual-sentence-representations/)  
 - [Europarl Parallel Corpus Spanish-English for Machine Translation](http://statmt.org/europarl/v7/es-en.tgz): Extracted from the proceedings of the European Parliament. All formats contain document `(<CHAPTER id>)`, speaker `(<SPEAKER id name language>)`, and paragraph `(<P>)` mark-up on a separate line. The data is stored in one file per day, and in smaller units for newer data. Size: 187 MB. [*source*](http://statmt.org/europarl/).
-- [Spanish ebooks by Project Guthenberg](http://www.gutenberg.org/browse/languages/es): One of the largest collections of free ebooks in Spanish. The portal includes other languages like [Catalan](http://www.gutenberg.org/browse/languages/ca) and [Galician](http://www.gutenberg.org/browse/languages/gl.)  
+- [Spanish ebooks by Project Guthenberg](http://www.gutenberg.org/browse/languages/es): One of the largest collections of free ebooks in Spanish. The portal includes other languages like [Catalan](http://www.gutenberg.org/browse/languages/ca) and [Galician](http://www.gutenberg.org/browse/languages/gl.)  - 
 
 
 ## Image Processing

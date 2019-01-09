@@ -1,6 +1,6 @@
 # LXAI Open Source Datasets
 
-Repository of open source datasets for use in research pertaining to AI and the Latinx Community
+Repository of open source datasets for use in research pertaining to the Latinx Community
 
 
 
@@ -21,5 +21,6 @@ Repository of open source datasets for use in research pertaining to AI and the 
 ## Speech Recognition
 - [Librivox Spanish Audiobooks](https://librivox.org/search?primary_key=5&search_category=language&search_page=1&search_form=get_results): 411 free audiobooks in Spanish (as of 11/1/18). Full audio books can be downloaded for free as zip-file, and are divided into chapters in mp3.
 
-## Other
+## Tabular
 - [Population Estimate of Non-Hispanic White Persons](https://www.kaggle.com/census/population-estimate-of-non-hispanic-white-persons): This is a dataset from the U.S. Census Bureau hosted by the Federal Reserve Economic Database (FRED). Observations from 2009 to 2016. 
+- [LAPOP Survey Data](https://www.vanderbilt.edu/lapop/data-access.php): The AmericasBarometer data sets feature the responses to the annual survey conducted through the Latin American Public Opinion Project (LAPOP) to Latin American citizens since 2004 to present day. The survey gathers public opinion about politics, and more specifically about topics related to democracy – regime support, political tolerance, authoritarianism, corruption, local governments and citizen participation. Example of 2017 Questionary can be found [here](https://www.vanderbilt.edu/lapop/ab2016/AB2017-v18.0-Eng-170523_W.pdf)
